@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ox",
+    "oncran": true
+  },
+  {
+    "package": "runner",
+    "oncran": true
+  },
+  {
+    "package": "sport",
+    "oncran": true
+  }
+]

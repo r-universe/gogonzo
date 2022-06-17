@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ox"]
+	path = ox
+	url = https://github.com/gogonzo/ox
+	shallow = true
+	registered = true
+[submodule "runner"]
+	path = runner
+	url = https://github.com/gogonzo/runner
+	shallow = true
+	registered = true
+[submodule "sport"]
+	path = sport
+	url = https://github.com/gogonzo/sport
+	shallow = true
+	registered = true
