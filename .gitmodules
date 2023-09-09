@@ -11,3 +11,6 @@
 [submodule "sport"]
 	path = sport
 	url = https://github.com/gogonzo/sport
+[submodule "teal.logger"]
+	path = teal.logger
+	url = https://github.com/cran/teal.logger
