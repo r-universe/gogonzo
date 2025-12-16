@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ox"]
-	path = ox
-	url = https://github.com/gogonzo/ox
 [submodule "runner"]
 	path = runner
 	url = https://github.com/gogonzo/runner
